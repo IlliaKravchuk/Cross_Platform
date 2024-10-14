@@ -103,3 +103,4 @@ C:\Users\USER\source\repos\lab1\lab3.Tests\obj\Debug\net8.0\refint\lab3.Tests.dl
 C:\Users\USER\source\repos\lab1\lab3.Tests\obj\Debug\net8.0\lab3.Tests.pdb
 C:\Users\USER\source\repos\lab1\lab3.Tests\obj\Debug\net8.0\lab3.Tests.genruntimeconfig.cache
 C:\Users\USER\source\repos\lab1\lab3.Tests\obj\Debug\net8.0\ref\lab3.Tests.dll
+C:\Users\USER\source\repos\lab1\lab3.Tests\obj\Debug\net8.0\lab3.Tests.sourcelink.json

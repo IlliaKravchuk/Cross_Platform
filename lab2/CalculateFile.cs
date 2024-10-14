@@ -13,7 +13,26 @@ namespace lab2
             var input = File.ReadAllLines("INPUT.TXT");
 
             var numbers = input[0].Split().Select(int.Parse).ToArray();
+
             int n = numbers.Length;
+
+            try
+            {
+                if (n < 1 || n > 100)
+                    throw new Exception("Invalid number of elements (must be between 1 and 100)");
+
+                foreach (var num in numbers)
+                {
+                    if (num < 1 || num > 1000)
+                        throw new Exception("Invalid number in the array (must be between 1 and 1000)");
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+                throw;
+            }
+
 
             int[,] dp = new int[n, n];
 

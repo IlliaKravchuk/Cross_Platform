@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\source\\repos\\lab1\\Lab1.Tests\\Lab1.Tests.csproj": {}
+    "C:\\Users\\USER\\source\\repos\\lab1\\lab1.Tests\\lab1.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\source\\repos\\lab1\\Lab1.Tests\\Lab1.Tests.csproj": {
+    "C:\\Users\\USER\\source\\repos\\lab1\\lab1.Tests\\lab1.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\lab1\\Lab1.Tests\\Lab1.Tests.csproj",
-        "projectName": "Lab1.Tests",
-        "projectPath": "C:\\Users\\USER\\source\\repos\\lab1\\Lab1.Tests\\Lab1.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\lab1\\lab1.Tests\\lab1.Tests.csproj",
+        "projectName": "lab1.Tests",
+        "projectPath": "C:\\Users\\USER\\source\\repos\\lab1\\lab1.Tests\\lab1.Tests.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\repos\\lab1\\Lab1.Tests\\obj\\",
+        "outputPath": "C:\\Users\\USER\\source\\repos\\lab1\\lab1.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

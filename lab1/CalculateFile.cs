@@ -34,8 +34,7 @@ namespace lab1
             }
             catch (Exception ex)
             {
-                Console.WriteLine(ex.Message);
-                return;
+                throw;
             }
             arr = arr.Distinct().ToArray();
             Array.Sort(arr);
