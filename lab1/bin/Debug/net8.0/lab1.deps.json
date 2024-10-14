@@ -6,15 +6,31 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "Lab1/1.0.0": {
+      "lab1/1.0.0": {
+        "dependencies": {
+          "lab3": "1.0.0"
+        },
         "runtime": {
-          "Lab1.dll": {}
+          "lab1.dll": {}
+        }
+      },
+      "lab3/1.0.0": {
+        "runtime": {
+          "lab3.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
-    "Lab1/1.0.0": {
+    "lab1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "lab3/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
