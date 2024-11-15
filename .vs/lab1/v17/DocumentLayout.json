@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\lab1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{79F943A7-39D4-40CB-A106-B2353C2CE61B}|lab3\\lab3.csproj|c:\\users\\user\\source\\repos\\lab1\\lab3\\calculatefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F943A7-39D4-40CB-A106-B2353C2CE61B}|lab3\\lab3.csproj|solutionrelative:lab3\\calculatefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CAC00C-C91C-4694-A71C-9B1105D068EA}|lab2\\lab2.csproj|c:\\users\\user\\source\\repos\\lab1\\lab2\\calculatefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CAC00C-C91C-4694-A71C-9B1105D068EA}|lab2\\lab2.csproj|solutionrelative:lab2\\calculatefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F730E8DA-4F02-4D49-A95B-6D8E947C1761}|lab1\\lab1.csproj|c:\\users\\user\\source\\repos\\lab1\\lab1\\calculatefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F730E8DA-4F02-4D49-A95B-6D8E947C1761}|lab1\\lab1.csproj|solutionrelative:lab1\\calculatefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F730E8DA-4F02-4D49-A95B-6D8E947C1761}|lab1\\lab1.csproj|c:\\users\\user\\source\\repos\\lab1\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F730E8DA-4F02-4D49-A95B-6D8E947C1761}|lab1\\lab1.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A02354C5-23FF-4034-A5E3-C152A6F0531A}|lab3.Tests\\lab3.Tests.csproj|c:\\users\\user\\source\\repos\\lab1\\lab3.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A02354C5-23FF-4034-A5E3-C152A6F0531A}|lab3.Tests\\lab3.Tests.csproj|solutionrelative:lab3.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79F943A7-39D4-40CB-A106-B2353C2CE61B}|lab3\\lab3.csproj|c:\\users\\user\\source\\repos\\lab1\\lab3\\calculatefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79F943A7-39D4-40CB-A106-B2353C2CE61B}|lab3\\lab3.csproj|solutionrelative:lab3\\calculatefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79F943A7-39D4-40CB-A106-B2353C2CE61B}|lab3\\lab3.csproj|c:\\users\\user\\source\\repos\\lab1\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,11 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 286,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculateFile.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\lab1\\lab1\\CalculateFile.cs",
+              "RelativeDocumentMoniker": "lab1\\CalculateFile.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\lab1\\lab1\\CalculateFile.cs",
+              "RelativeToolTip": "lab1\\CalculateFile.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T18:17:36.593Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -50,7 +71,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "CalculateFile.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\lab1\\lab2\\CalculateFile.cs",
+              "RelativeDocumentMoniker": "lab2\\CalculateFile.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\lab1\\lab2\\CalculateFile.cs",
+              "RelativeToolTip": "lab2\\CalculateFile.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T11:34:10.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\lab1\\lab1\\Program.cs",
               "RelativeDocumentMoniker": "lab1\\Program.cs",
@@ -58,12 +92,11 @@
               "RelativeToolTip": "lab1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T11:25:20.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T11:25:20.579Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\lab1\\lab3\\Program.cs",
               "RelativeDocumentMoniker": "lab3\\Program.cs",
@@ -76,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\lab1\\lab3.Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "lab3.Tests\\UnitTest1.cs",
@@ -89,13 +122,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CalculateFile.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\lab1\\lab3\\CalculateFile.cs",
               "RelativeDocumentMoniker": "lab3\\CalculateFile.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\lab1\\lab3\\CalculateFile.cs",
               "RelativeToolTip": "lab3\\CalculateFile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T11:00:07.819Z",
               "EditorCaption": ""

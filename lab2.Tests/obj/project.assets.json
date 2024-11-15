@@ -5529,11 +5529,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\lab1\\Lab2.Tests\\Lab2.Tests.csproj",
-      "projectName": "Lab2.Tests",
-      "projectPath": "C:\\Users\\USER\\source\\repos\\lab1\\Lab2.Tests\\Lab2.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\lab1\\lab2.Tests\\lab2.Tests.csproj",
+      "projectName": "lab2.Tests",
+      "projectPath": "C:\\Users\\USER\\source\\repos\\lab1\\lab2.Tests\\lab2.Tests.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\source\\repos\\lab1\\Lab2.Tests\\obj\\",
+      "outputPath": "C:\\Users\\USER\\source\\repos\\lab1\\lab2.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5605,7 +5605,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
