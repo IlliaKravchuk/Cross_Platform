@@ -8,8 +8,6 @@ namespace lab3.Tests
             // Arrange
             string inputFilePath = "INPUT.TXT";
             string outputFilePath = "OUTPUT.TXT";
-
-            // Записуємо вхідні дані
             File.WriteAllText(inputFilePath, "8 10\n" +
                                              "##########\n" +
                                              "#.#...##.#\n" +
@@ -33,8 +31,6 @@ namespace lab3.Tests
             // Arrange
             string inputFilePath = "INPUT.TXT";
             string outputFilePath = "OUTPUT.TXT";
-
-            // Записуємо вхідні дані
             File.WriteAllText(inputFilePath, "8 10\n" +
                                              "##########\n" +
                                              "#.#...##.#\n" +
