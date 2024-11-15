@@ -26,8 +26,6 @@ namespace lab3
             int N = int.Parse(dimensions[0]);
             int M = int.Parse(dimensions[1]);
 
-            
-            
             if (N < 4 || N > 1000)
                 throw new Exception("Invalid value for N. It must be an integer between 4 and 1000.");
 
@@ -35,8 +33,6 @@ namespace lab3
                 throw new Exception("Invalid value for M. It must be an integer between 4 and 1000.");
             
             char[,] maze = new char[N, M];
-
-
 
             int tigerX = -1, tigerY = -1;
 
