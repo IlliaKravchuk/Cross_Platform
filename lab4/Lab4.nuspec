@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>IKravchuk</id>
+    <version>1.0.0</version>
+    <authors>Illia</authors>
+    <owners>Illia</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Lab4 console application.</description>
+    <tags>lab4</tags>
+  </metadata>
+  <files>
+    <file src="Lab4/bin/Debug/net8.0/Lab4.dll" target="lib/net8.0/Lab4.dll" />
+    <file src="Lab4.LabsLibrary/bin/Debug/net8.0/LabsLibrary.dll" target="lib/net8.0/LabsLibrary.dll" />
+  </files>
+</package>
