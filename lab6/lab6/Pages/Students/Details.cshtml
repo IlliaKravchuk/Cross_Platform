@@ -1,0 +1,29 @@
+﻿@page
+@model Lab6.Pages.Students.DetailsModel
+@{
+    ViewData["Title"] = "Student Details";
+}
+
+<h1>Student Details</h1>
+
+<div>
+    <h4>Student</h4>
+    <hr />
+    <dl class="row">
+        <dt>
+            BioData
+        </dt>
+        <dd>
+            @Model.Student.BioData
+        </dd>
+        <dt>
+            StudentDetails
+        </dt>
+        <dd>
+            @Model.Student.StudentDetails
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>

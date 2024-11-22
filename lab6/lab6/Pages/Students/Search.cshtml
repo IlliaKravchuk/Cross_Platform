@@ -1,0 +1,41 @@
+﻿@page
+@model Lab6.Pages.Students.SearchModel
+@{
+    ViewData["Title"] = "Search Students";
+}
+
+<h1>Search Students</h1>
+
+<form method="get">
+    <div class="form-group">
+        <label for="searchString">Search by Name or Details</label>
+        <input type="text" class="form-control" id="searchString" name="searchString" />
+    </div>
+    <div class="form-group">
+        <label for="searchDate">Search by Date</label>
+        <input type="date" class="form-control" id="searchDate" name="searchDate" />
+    </div>
+    <button type="submit" class="btn btn-primary">Search</button>
+</form>
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>BioData</th>
+        <th>Details</th>
+        <th></th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var student in Model.Students)
+    {
+        <tr>
+            <td>@student.BioData</td>
+            <td>@student.StudentDetails</td>
+            <td>
+                <a asp-page="./Details" asp-route-id="@student.StudentId">Details</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
