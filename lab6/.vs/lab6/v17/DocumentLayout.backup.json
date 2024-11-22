@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\lab6\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\source\\repos\\lab6\\lab6\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\source\\repos\\lab6\\lab6\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -87,10 +91,6 @@
       "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\source\\repos\\lab6\\lab6\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\source\\repos\\lab6\\lab6\\pages\\students\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\pages\\students\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -122,11 +122,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\lab6\\lab6\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "lab6\\Pages\\Index.cshtml.cs",
@@ -139,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "20241122200931_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\lab6\\lab6\\Migrations\\20241122200931_InitialCreate.cs",
               "RelativeDocumentMoniker": "lab6\\Migrations\\20241122200931_InitialCreate.cs",
@@ -152,20 +152,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\lab6\\lab6\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "lab6\\Pages\\Index.cshtml",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\lab6\\lab6\\Pages\\Index.cshtml",
               "RelativeToolTip": "lab6\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-22T20:04:55.579Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Transcript.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\lab6\\lab6\\Models\\Transcript.cs",
               "RelativeDocumentMoniker": "lab6\\Models\\Transcript.cs",
@@ -178,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "StudentLoan.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\lab6\\lab6\\Models\\StudentLoan.cs",
               "RelativeDocumentMoniker": "lab6\\Models\\StudentLoan.cs",
@@ -191,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "StudentEvent.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\lab6\\lab6\\Models\\StudentEvent.cs",
               "RelativeDocumentMoniker": "lab6\\Models\\StudentEvent.cs",
@@ -204,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "StudentAddress.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\lab6\\lab6\\Models\\StudentAddress.cs",
               "RelativeDocumentMoniker": "lab6\\Models\\StudentAddress.cs",
@@ -217,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\lab6\\lab6\\Models\\Student.cs",
               "RelativeDocumentMoniker": "lab6\\Models\\Student.cs",
@@ -230,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "RefEventType.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\lab6\\lab6\\Models\\RefEventType.cs",
               "RelativeDocumentMoniker": "lab6\\Models\\RefEventType.cs",
@@ -243,20 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "RefDetentionType.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\lab6\\lab6\\Models\\RefDetentionType.cs",
-              "RelativeDocumentMoniker": "lab6\\Models\\RefDetentionType.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\lab6\\lab6\\Models\\RefDetentionType.cs",
-              "RelativeToolTip": "lab6\\Models\\RefDetentionType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T20:03:25.223Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\lab6\\lab6\\appsettings.json",
               "RelativeDocumentMoniker": "lab6\\appsettings.json",
@@ -269,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\lab6\\lab6\\Program.cs",
               "RelativeDocumentMoniker": "lab6\\Program.cs",
@@ -282,7 +269,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\lab6\\lab6\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "lab6\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\lab6\\lab6\\Data\\SeedData.cs",
+              "RelativeToolTip": "lab6\\Data\\SeedData.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:35:14.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "RefDetentionType.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\lab6\\lab6\\Models\\RefDetentionType.cs",
+              "RelativeDocumentMoniker": "lab6\\Models\\RefDetentionType.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\lab6\\lab6\\Models\\RefDetentionType.cs",
+              "RelativeToolTip": "lab6\\Models\\RefDetentionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:03:25.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "RefAddressType.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\lab6\\lab6\\Models\\RefAddressType.cs",
               "RelativeDocumentMoniker": "lab6\\Models\\RefAddressType.cs",
@@ -295,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Detention.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\lab6\\lab6\\Models\\Detention.cs",
               "RelativeDocumentMoniker": "lab6\\Models\\Detention.cs",
@@ -308,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Class.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\lab6\\lab6\\Models\\Class.cs",
               "RelativeDocumentMoniker": "lab6\\Models\\Class.cs",
@@ -321,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "BehaviourMonitoring.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\lab6\\lab6\\Models\\BehaviourMonitoring.cs",
               "RelativeDocumentMoniker": "lab6\\Models\\BehaviourMonitoring.cs",
@@ -334,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "RefAchievementType.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\lab6\\lab6\\Models\\RefAchievementType.cs",
               "RelativeDocumentMoniker": "lab6\\Models\\RefAchievementType.cs",
@@ -347,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Address.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\lab6\\lab6\\Models\\Address.cs",
               "RelativeDocumentMoniker": "lab6\\Models\\Address.cs",
@@ -360,7 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Teacher.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\lab6\\lab6\\Models\\Teacher.cs",
               "RelativeDocumentMoniker": "lab6\\Models\\Teacher.cs",
@@ -373,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Achievement.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\lab6\\lab6\\Models\\Achievement.cs",
               "RelativeDocumentMoniker": "lab6\\Models\\Achievement.cs",
@@ -463,19 +476,6 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "SeedData.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\lab6\\lab6\\Data\\SeedData.cs",
-              "RelativeDocumentMoniker": "lab6\\Data\\SeedData.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\lab6\\lab6\\Data\\SeedData.cs",
-              "RelativeToolTip": "lab6\\Data\\SeedData.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T19:35:14.638Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
@@ -493,7 +493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\lab6\\lab6\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "lab6\\Data\\DataContext.cs",

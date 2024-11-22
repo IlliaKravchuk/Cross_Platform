@@ -1,0 +1,45 @@
+﻿@page
+@model RegisterModel
+@{
+    ViewData["Title"] = "Реєстрація";
+}
+
+<h1>Реєстрація</h1>
+
+<form method="post">
+    <div>
+        <label for="Username">Ім'я користувача:</label>
+        <input id="Username" name="Username" asp-for="Username" maxlength="50" />
+        <span asp-validation-for="Username" class="text-danger"></span>
+    </div>
+    <div>
+        <label for="FullName">ФІО:</label>
+        <input id="FullName" name="FullName" asp-for="FullName" maxlength="500" />
+        <span asp-validation-for="FullName" class="text-danger"></span>
+    </div>
+    <div>
+        <label for="Password">Пароль:</label>
+        <input id="Password" name="Password" asp-for="Password" type="password" />
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+    <div>
+        <label for="ConfirmPassword">Підтвердження паролю:</label>
+        <input id="ConfirmPassword" name="ConfirmPassword" asp-for="ConfirmPassword" type="password" />
+        <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+    </div>
+    <div>
+        <label for="Phone">Телефон:</label>
+        <input id="Phone" name="Phone" asp-for="Phone" />
+        <span asp-validation-for="Phone" class="text-danger"></span>
+    </div>
+    <div>
+        <label for="Email">Електронна адреса:</label>
+        <input id="Email" name="Email" asp-for="Email" type="email" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <button type="submit">Зареєструватися</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
