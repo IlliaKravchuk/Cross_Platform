@@ -1,0 +1,24 @@
+﻿@model Lab6.Models.RefAchievementType
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>RefAchievementType</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.AchievementTypeDescription)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.AchievementTypeDescription)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.AchievementTypeCode">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

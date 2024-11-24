@@ -1,0 +1,31 @@
+﻿@page
+@model lab6.Pages.Students.IndexModel
+@{
+    ViewData["Title"] = "Students";
+}
+
+<h1>Students</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>BioData</th>
+            <th>Details</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model.Students)
+        {
+            <tr>
+                <td>@student.BioData</td>
+                <td>@student.StudentDetails</td>
+                <td>
+                    <a asp-page="./Details" asp-route-id="@student.StudentId">Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+    <a href="https://localhost:44371/Students/Search"> Search</a>
+
+</table>

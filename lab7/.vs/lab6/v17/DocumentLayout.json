@@ -1,0 +1,773 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\controllers\\transcriptscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\controllers\\transcriptscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\models\\transcript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\models\\transcript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\controllers\\studentloanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\controllers\\studentloanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\controllers\\studenteventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\controllers\\studenteventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\controllers\\studentaddressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\controllers\\studentaddressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\controllers\\refeventtypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\controllers\\refeventtypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\controllers\\refdetentiontypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\controllers\\refdetentiontypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\controllers\\refaddresstypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\controllers\\refaddresstypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\controllers\\refachievementtypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\controllers\\refachievementtypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\controllers\\behaviourmonitoringscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\controllers\\behaviourmonitoringscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\views\\addresses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\views\\addresses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\controllers\\addressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\controllers\\addressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\views\\achievements\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\views\\achievements\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\controllers\\achievementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\controllers\\achievementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\migrations\\20241122200931_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\migrations\\20241122200931_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\models\\studentloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\models\\studentloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\models\\studentevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\models\\studentevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\models\\studentaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\models\\studentaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\models\\refeventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\models\\refeventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\models\\refdetentiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\models\\refdetentiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\models\\refaddresstype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\models\\refaddresstype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\models\\refachievementtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\models\\refachievementtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\models\\detention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\models\\detention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\models\\behaviourmonitoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\models\\behaviourmonitoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\models\\achievement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\models\\achievement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\pages\\students\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\pages\\students\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\pages\\students\\search.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\pages\\students\\search.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\pages\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\pages\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\pages\\students\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\pages\\students\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\pages\\students\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\pages\\students\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|c:\\users\\user\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\cross_platform\\lab6\\lab6\\pages\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6523B36-132F-459D-BCBE-22DE43422427}|lab6\\lab6.csproj|solutionrelative:lab6\\pages\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TranscriptsController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Controllers\\TranscriptsController.cs",
+              "RelativeDocumentMoniker": "lab6\\Controllers\\TranscriptsController.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Controllers\\TranscriptsController.cs",
+              "RelativeToolTip": "lab6\\Controllers\\TranscriptsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwJEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:02:43.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeachersController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "lab6\\Controllers\\TeachersController.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Controllers\\TeachersController.cs",
+              "RelativeToolTip": "lab6\\Controllers\\TeachersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:02:09.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentLoansController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Controllers\\StudentLoansController.cs",
+              "RelativeDocumentMoniker": "lab6\\Controllers\\StudentLoansController.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Controllers\\StudentLoansController.cs",
+              "RelativeToolTip": "lab6\\Controllers\\StudentLoansController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:01:43.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentEventsController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Controllers\\StudentEventsController.cs",
+              "RelativeDocumentMoniker": "lab6\\Controllers\\StudentEventsController.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Controllers\\StudentEventsController.cs",
+              "RelativeToolTip": "lab6\\Controllers\\StudentEventsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:01:11.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentAddressesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Controllers\\StudentAddressesController.cs",
+              "RelativeDocumentMoniker": "lab6\\Controllers\\StudentAddressesController.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Controllers\\StudentAddressesController.cs",
+              "RelativeToolTip": "lab6\\Controllers\\StudentAddressesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:00:44.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RefEventTypesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Controllers\\RefEventTypesController.cs",
+              "RelativeDocumentMoniker": "lab6\\Controllers\\RefEventTypesController.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Controllers\\RefEventTypesController.cs",
+              "RelativeToolTip": "lab6\\Controllers\\RefEventTypesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:00:19.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RefDetentionTypesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Controllers\\RefDetentionTypesController.cs",
+              "RelativeDocumentMoniker": "lab6\\Controllers\\RefDetentionTypesController.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Controllers\\RefDetentionTypesController.cs",
+              "RelativeToolTip": "lab6\\Controllers\\RefDetentionTypesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:59:54.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RefAddressTypesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Controllers\\RefAddressTypesController.cs",
+              "RelativeDocumentMoniker": "lab6\\Controllers\\RefAddressTypesController.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Controllers\\RefAddressTypesController.cs",
+              "RelativeToolTip": "lab6\\Controllers\\RefAddressTypesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:58:14.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RefAchievementTypesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Controllers\\RefAchievementTypesController.cs",
+              "RelativeDocumentMoniker": "lab6\\Controllers\\RefAchievementTypesController.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Controllers\\RefAchievementTypesController.cs",
+              "RelativeToolTip": "lab6\\Controllers\\RefAchievementTypesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:57:54.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClassesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Controllers\\ClassesController.cs",
+              "RelativeDocumentMoniker": "lab6\\Controllers\\ClassesController.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Controllers\\ClassesController.cs",
+              "RelativeToolTip": "lab6\\Controllers\\ClassesController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAowIUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:56:09.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Transcript.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Models\\Transcript.cs",
+              "RelativeDocumentMoniker": "lab6\\Models\\Transcript.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Models\\Transcript.cs",
+              "RelativeToolTip": "lab6\\Models\\Transcript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:01:12.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Views\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "lab6\\Views\\Students\\Create.cshtml",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Views\\Students\\Create.cshtml",
+              "RelativeToolTip": "lab6\\Views\\Students\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T16:55:31.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "lab6\\Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "lab6\\Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T16:54:55.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Views\\Addresses\\Create.cshtml",
+              "RelativeDocumentMoniker": "lab6\\Views\\Addresses\\Create.cshtml",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Views\\Addresses\\Create.cshtml",
+              "RelativeToolTip": "lab6\\Views\\Addresses\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T16:54:01.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BehaviourMonitoringsController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Controllers\\BehaviourMonitoringsController.cs",
+              "RelativeDocumentMoniker": "lab6\\Controllers\\BehaviourMonitoringsController.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Controllers\\BehaviourMonitoringsController.cs",
+              "RelativeToolTip": "lab6\\Controllers\\BehaviourMonitoringsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:53:20.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddressesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Controllers\\AddressesController.cs",
+              "RelativeDocumentMoniker": "lab6\\Controllers\\AddressesController.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Controllers\\AddressesController.cs",
+              "RelativeToolTip": "lab6\\Controllers\\AddressesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:52:59.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Views\\Achievements\\Create.cshtml",
+              "RelativeDocumentMoniker": "lab6\\Views\\Achievements\\Create.cshtml",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Views\\Achievements\\Create.cshtml",
+              "RelativeToolTip": "lab6\\Views\\Achievements\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T16:52:07.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AchievementsController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Controllers\\AchievementsController.cs",
+              "RelativeDocumentMoniker": "lab6\\Controllers\\AchievementsController.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Controllers\\AchievementsController.cs",
+              "RelativeToolTip": "lab6\\Controllers\\AchievementsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:51:59.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "lab6\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "lab6\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:51:20.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "lab6\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "lab6\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:13:16.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241122200931_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Migrations\\20241122200931_InitialCreate.cs",
+              "RelativeDocumentMoniker": "lab6\\Migrations\\20241122200931_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Migrations\\20241122200931_InitialCreate.cs",
+              "RelativeToolTip": "lab6\\Migrations\\20241122200931_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:09:32.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "lab6\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Pages\\Index.cshtml",
+              "RelativeToolTip": "lab6\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T20:04:55.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StudentLoan.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Models\\StudentLoan.cs",
+              "RelativeDocumentMoniker": "lab6\\Models\\StudentLoan.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Models\\StudentLoan.cs",
+              "RelativeToolTip": "lab6\\Models\\StudentLoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:03:40.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StudentEvent.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Models\\StudentEvent.cs",
+              "RelativeDocumentMoniker": "lab6\\Models\\StudentEvent.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Models\\StudentEvent.cs",
+              "RelativeToolTip": "lab6\\Models\\StudentEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:03:36.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "StudentAddress.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Models\\StudentAddress.cs",
+              "RelativeDocumentMoniker": "lab6\\Models\\StudentAddress.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Models\\StudentAddress.cs",
+              "RelativeToolTip": "lab6\\Models\\StudentAddress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:03:33.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "lab6\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Models\\Student.cs",
+              "RelativeToolTip": "lab6\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:03:30.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RefEventType.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Models\\RefEventType.cs",
+              "RelativeDocumentMoniker": "lab6\\Models\\RefEventType.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Models\\RefEventType.cs",
+              "RelativeToolTip": "lab6\\Models\\RefEventType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:03:28.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\appsettings.json",
+              "RelativeDocumentMoniker": "lab6\\appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\appsettings.json",
+              "RelativeToolTip": "lab6\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T19:31:15.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Program.cs",
+              "RelativeDocumentMoniker": "lab6\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Program.cs",
+              "RelativeToolTip": "lab6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:32:39.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "lab6\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Data\\SeedData.cs",
+              "RelativeToolTip": "lab6\\Data\\SeedData.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:35:14.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RefDetentionType.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Models\\RefDetentionType.cs",
+              "RelativeDocumentMoniker": "lab6\\Models\\RefDetentionType.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Models\\RefDetentionType.cs",
+              "RelativeToolTip": "lab6\\Models\\RefDetentionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:03:25.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RefAddressType.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Models\\RefAddressType.cs",
+              "RelativeDocumentMoniker": "lab6\\Models\\RefAddressType.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Models\\RefAddressType.cs",
+              "RelativeToolTip": "lab6\\Models\\RefAddressType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:03:21.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Detention.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Models\\Detention.cs",
+              "RelativeDocumentMoniker": "lab6\\Models\\Detention.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Models\\Detention.cs",
+              "RelativeToolTip": "lab6\\Models\\Detention.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:03:13.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "lab6\\Models\\Class.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Models\\Class.cs",
+              "RelativeToolTip": "lab6\\Models\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:03:09.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BehaviourMonitoring.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Models\\BehaviourMonitoring.cs",
+              "RelativeDocumentMoniker": "lab6\\Models\\BehaviourMonitoring.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Models\\BehaviourMonitoring.cs",
+              "RelativeToolTip": "lab6\\Models\\BehaviourMonitoring.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:03:05.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RefAchievementType.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Models\\RefAchievementType.cs",
+              "RelativeDocumentMoniker": "lab6\\Models\\RefAchievementType.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Models\\RefAchievementType.cs",
+              "RelativeToolTip": "lab6\\Models\\RefAchievementType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:00:02.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "lab6\\Models\\Address.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Models\\Address.cs",
+              "RelativeToolTip": "lab6\\Models\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:03:02.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "lab6\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Models\\Teacher.cs",
+              "RelativeToolTip": "lab6\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:29:29.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Achievement.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Models\\Achievement.cs",
+              "RelativeDocumentMoniker": "lab6\\Models\\Achievement.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Models\\Achievement.cs",
+              "RelativeToolTip": "lab6\\Models\\Achievement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T20:02:50.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Search.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Pages\\Students\\Search.cshtml.cs",
+              "RelativeDocumentMoniker": "lab6\\Pages\\Students\\Search.cshtml.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Pages\\Students\\Search.cshtml.cs",
+              "RelativeToolTip": "lab6\\Pages\\Students\\Search.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:58:54.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Pages\\Students\\Search.cshtml",
+              "RelativeDocumentMoniker": "lab6\\Pages\\Students\\Search.cshtml",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Pages\\Students\\Search.cshtml",
+              "RelativeToolTip": "lab6\\Pages\\Students\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T19:58:43.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Pages\\Students\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "lab6\\Pages\\Students\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Pages\\Students\\Details.cshtml.cs",
+              "RelativeToolTip": "lab6\\Pages\\Students\\Details.cshtml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:58:11.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Pages\\Students\\Details.cshtml",
+              "RelativeDocumentMoniker": "lab6\\Pages\\Students\\Details.cshtml",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Pages\\Students\\Details.cshtml",
+              "RelativeToolTip": "lab6\\Pages\\Students\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T19:58:07.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Pages\\Students\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "lab6\\Pages\\Students\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Pages\\Students\\Index.cshtml.cs",
+              "RelativeToolTip": "lab6\\Pages\\Students\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:54:08.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Pages\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "lab6\\Pages\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Pages\\Students\\Index.cshtml",
+              "RelativeToolTip": "lab6\\Pages\\Students\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T19:49:58.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "lab6\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Cross_Platform\\lab6\\lab6\\Data\\DataContext.cs",
+              "RelativeToolTip": "lab6\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:29:52.535Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
